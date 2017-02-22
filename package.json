@@ -1,0 +1,18 @@
+{
+  "name": "apicloud-studio-cloud",
+  "main": "./lib/apicloud-studio-cloud",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "apicloud-studio-cloud:toggle"
+  },
+  "repository": "https://github.com/ios122/apicloud-studio-cloud-holder",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

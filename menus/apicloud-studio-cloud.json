@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle apicloud-studio-cloud",
+        "command": "apicloud-studio-cloud:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "apicloud-studio-cloud",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "apicloud-studio-cloud:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
